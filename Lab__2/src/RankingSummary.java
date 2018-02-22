@@ -26,9 +26,6 @@ public class RankingSummary {
 				System.out.print("    Rank " + rank);
 			}
 		}
-		System.out.println("");
-		for(int i = 0; i < 110; i++) System.out.print("-");
-		System.out.println("");
 	}
 	
 	public static void printNames()throws FileNotFoundException {
